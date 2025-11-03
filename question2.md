@@ -10,7 +10,7 @@ exon1 = "GGGCCCCTTTAAAAGGCTTCTCT"
 intron = "TTTTGGGGGAAACCGTGTGAAAAA"
 exon2 = "AAATTGGGGCCCTGTGAAAACCCCCC"
 stop_codon = "TAG"
-3_prime_UTR = "GGGAAACCTTTTTAAAGCTCTCTAAA"
+3_prime_UTR = "GGGAAACCTTTTTAAAGCTCTCTCTC"
 
 my_fav_gene = promoter + 5_prime_UTR + start_codon + exon1 + \
               intron + exon2 + stop_codon + 3_prime_UTR
